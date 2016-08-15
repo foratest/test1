@@ -4,5 +4,8 @@ ihower:
 pro git:
 	https://progit.org/
 
+monkey can know :
+	https://backlogtool.com/git-guide/tw/intro/intro2_1.html
+
 other:
 	https://kingofamani.gitbooks.io/git-teach/content/index.html
