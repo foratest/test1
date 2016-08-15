@@ -1,0 +1,3 @@
+## some resource
+Think python 2e:
+	http://codingpy.com/books/thinkpython2/
