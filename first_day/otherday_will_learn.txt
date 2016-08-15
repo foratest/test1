@@ -1,0 +1,8 @@
+ihower:
+	https://ihower.tw/blog/archives/category/git
+
+pro git:
+	https://progit.org/
+
+other:
+	https://kingofamani.gitbooks.io/git-teach/content/index.html
